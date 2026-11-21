@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Piratas del Caribe</title>
+    <link>./index.html</link>
+    <description>Noticias y contenidos sobre la saga de Piratas del Caribe.</description>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 19 Nov 2026 08:41:11 +0100</lastBuildDate>
+
+    <item>
+      <title>Introducción al mundo de Piratas del Caribe</title>
+      <link>./index.html</link>
+      <pubDate>Wed, 19 Nov 2026 08:41:11 +0100</pubDate>
+      <description>Descubre qué es Piratas del Caribe y conoce a sus personajes principales y curiosidades.</description>
+    </item>
+
+    <item>
+      <title>Películas de la saga</title>
+      <link>./peliculas.html</link>
+      <pubDate>Wed, 18 Nov 2026 08:41:11 +0100</pubDate>
+      <description>Consulta el resumen, el orden y la información de las cinco películas de la saga.</description>
+    </item>
+
+    <item>
+      <title>Personajes de la saga</title>
+      <link>./personajes.html</link>
+      <pubDate>Tue, 17 Nov 2026 08:41:11 +0100</pubDate>
+      <description>Conoce a Jack Sparrow, Will Turner, Elisabeth Swann y otros personajes de Piratas del Caribe.</description>
+    </item>
+
+    <item>
+      <title>Contacto</title>
+      <link>./contacto.html</link>
+      <pubDate>Mon, 16 Nov 2026 08:41:11 +0100</pubDate>
+      <description>Accede al formulario de contacto de la web sobre Piratas del Caribe.</description>
+    </item>
+  </channel>
+</rss>
