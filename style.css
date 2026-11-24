@@ -137,6 +137,11 @@ img {
     .contenedor-peliculas article:last-child {
         grid-column: 1;
     }
+
+    table th, table td {
+        padding: 5px;
+        font-size: 12px;
+    }
 }
 @media (prefers-reduced-motion: reduce) {
     article {
